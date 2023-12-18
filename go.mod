@@ -23,11 +23,11 @@ require (
 	github.com/smallstep/cli v0.14.3
 	github.com/smallstep/nosql v0.3.0
 	github.com/smallstep/truststore v0.9.5
-	github.com/yuin/goldmark v1.1.30
+	github.com/yuin/goldmark v1.4.13
 	github.com/yuin/goldmark-highlighting v0.0.0-20200307114337-60d527fdb691
 	go.uber.org/zap v1.15.0
-	golang.org/x/crypto v0.0.0-20200427165652-729f1e841bcc
-	golang.org/x/net v0.0.0-20200425230154-ff2c4b7c35a0
+	golang.org/x/crypto v0.17.0
+	golang.org/x/net v0.10.0
 	google.golang.org/genproto v0.0.0-20200413115906-b5235f65be36
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.2.8
